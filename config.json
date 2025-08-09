@@ -1,0 +1,9 @@
+{
+  "domains": [
+    "https://tools.jessnunez.com",
+    "https://jessnunez.com",
+    "https://micromedia.dev"
+  ],
+  "checkInterval": 5,
+  "slackWebhookUrl": "https://hooks.slack.com/services/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"
+}

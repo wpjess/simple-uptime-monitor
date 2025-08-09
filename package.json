@@ -1,0 +1,17 @@
+{
+  "name": "uptime-monitor",
+  "version": "1.0.0",
+  "description": "Node.js uptime monitor with Slack notifications",
+  "main": "monitor.js",
+  "scripts": {
+    "start": "node monitor.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "node-cron": "^3.0.3"
+  },
+  "keywords": ["uptime", "monitor", "slack", "curl", "health-check"],
+  "author": "",
+  "license": "MIT"
+}
