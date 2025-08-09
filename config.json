@@ -4,5 +4,5 @@
     "https://another-domain.com"
   ],
   "checkInterval": 5,
-  "slackWebhookUrl": "https://hooks.slack.com/services/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"
+  "slackWebhookUrl": "https://hooks.slack.com/services/{WEBHOOK}"
 }
